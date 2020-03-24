@@ -1,17 +1,32 @@
-import React, {Component} from 'react';
-import {Text, View} from 'react-native';
+import {createAppContainer} from 'react-navigation';
+import {createStackNavigator} from 'react-navigation-stack';
 
-export default class Home extends Component {
-  render() {
-    return (
-      <View style={{flex: 1, alignItems: 'center'}}>
-        <Text style={{fontSize: 24, fontWeight: 'bold', color: 'red'}}>
-          Olá Mundo!
-        </Text>
-        <Text style={{fontSize: 24, fontWeight: 'bold', color: 'red'}}>
-          Olá Sandro Torres!
-        </Text>
-      </View>
-    );
-  }
-}
+import Home from './components/Home';
+import What from './components/What';
+import Sintomas from './components/Sintomas';
+import Transmissao from './components/Transmissao';
+import Prevencao from './components/Prevencao';
+import Mapa from './components/Mapa';
+
+const myNavGroup = createStackNavigator({
+  Home: {
+    screen: Home,
+  },
+  What: {
+    screen: What,
+  },
+  Sintomas: {
+    screen: Sintomas,
+  },
+  Transmissao: {
+    screen: Transmissao,
+  },
+  Prevencao: {
+    screen: Prevencao,
+  },
+  Mapa: {
+    screen: Mapa,
+  },
+});
+
+export default createAppContainer(myNavGroup);

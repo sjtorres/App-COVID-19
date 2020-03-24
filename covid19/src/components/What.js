@@ -3,7 +3,7 @@ import {View, Text} from 'react-native';
 
 // import { Container } from './styles';
 
-export default class Whats extends Component {
+export default class What extends Component {
   render() {
     return (
       <View>
