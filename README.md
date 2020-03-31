@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/src/assets/logo.svg" width="380px" />
+    <img alt="AlertaCovid-19" title="#AlertaCovid-19" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/src/assets/logo.svg" width="380px" />
 </h1>
 
 <h4 align="center"> 
