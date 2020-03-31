@@ -11,18 +11,9 @@ export default class Home extends Component {
           style={styles.imagecorona}
           source={require('../assets/covid-19.png')}
         />
-        <Text style={{fontSize: 38, fontWeight: 'bold', color: 'white'}}>
-          CORONAVÍRUS
-        </Text>
-        <Text
-          style={{
-            fontSize: 22,
-            fontWeight: 'bold',
-            color: '#ddd',
-            marginBottom: 32,
-          }}>
-          COVID-19
-        </Text>
+
+        <Text style={styles.textoCorona}>CORONAVÍRUS</Text>
+        <Text style={styles.textoCovid}>COVID-19</Text>
 
         <TouchableOpacity
           style={styles.botao}
@@ -100,5 +91,16 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: 'bold',
     textTransform: 'uppercase',
+  },
+  textoCovid: {
+    fontSize: 22,
+    fontWeight: 'bold',
+    color: 'red',
+    marginBottom: 32,
+  },
+  textoCorona: {
+    fontSize: 38,
+    fontWeight: 'bold',
+    color: 'white',
   },
 });

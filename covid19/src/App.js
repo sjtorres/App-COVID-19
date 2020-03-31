@@ -11,21 +11,36 @@ import Mapa from './components/Mapa';
 const myNavGroup = createStackNavigator({
   Home: {
     screen: Home,
+    navigationOptions: {
+      headerShown: false,
+    },
   },
   What: {
     screen: What,
+    navigationOptions: {
+      title: 'CoronaVírus',
+    },
   },
   Sintomas: {
     screen: Sintomas,
   },
   Transmissao: {
     screen: Transmissao,
+    navigationOptions: {
+      title: 'Como é Transmitido',
+    },
   },
   Prevencao: {
     screen: Prevencao,
+    navigationOptions: {
+      title: 'Como se Previnir',
+    },
   },
   Mapa: {
     screen: Mapa,
+    navigationOptions: {
+      title: 'Mapa da Evolução do Vírus',
+    },
   },
 });
 
