@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="AlertaCovid-19" title="#AlertaCovid-19" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/src/assets/logo.svg" width="380px" />
+    <img alt="AlertaCovid-19" title="#AlertaCovid-19" src="https://github.com/sjtorres/App-COVID-19/blob/master/img/LogoCoronaVirus.png" width="380px" />
 </h1>
 
 <h4 align="center"> 
-	:heavy_check_mark: Seja o Heroi :heavy_check_mark:
+	:heavy_check_mark: Alerta COVID-19 :heavy_check_mark:
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/badge/made by-Sandro Torres-red">
@@ -23,7 +23,7 @@
 
 ## Tecnologias
 
-O Be The Hero é um projeto que visa conectar pessoas dispostas a ajudar ONGs.
+O Alerta COVID-19 é um projeto que visa informar pessoas sobre o avanço e medidas de proteçãosobre o CoronaVírus.
 
 - :heavy_check_mark: [Node.js](https://nodejs.org/en/) 
 - :heavy_check_mark: [Express](http://expressjs.com/) 
@@ -33,7 +33,7 @@ O Be The Hero é um projeto que visa conectar pessoas dispostas a ajudar ONGs.
 
 ## Projeto
 
-Be the Hero é um projeto que visa ajudar, de maneira financeira (Ongs) Instituições de caridade, ajudando a mesma se manter.
+Alerta COVID-19 é um projeto que visa ajudar, de maneira financeira (Ongs) Instituições de caridade, ajudando a mesma se manter.
 
 <h1 align="center">
     <img alt="Login-Page" title="Login-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/img/login-page.png" width="350px" />
@@ -51,10 +51,10 @@ Para clonar e executar este aplicativo, você precisará do [Git](https://git-sc
 Na sua linha de comando:
 ```bash
 # Clone este repositório
-$ git clone https://github.com/sjtorres/Omnistack-11
+$ git clone https://github.com/sjtorres/App-COVID-19
 
 # Vá para o repositório 
-$ cd Omnistack-11/backend
+$ cd App-COVID-19/backend
 
 # Instalar dependências
 $ yarn install
@@ -82,5 +82,5 @@ Este projeto está sob a licença MIT. Consulte o [LICENSE] para obter detalhes.
 
 ---
 
-Feito com ♥ por Sandro Torres na semana OmniStack-11 :wave: [Entre em Contato!](https://www.sandrotorres.com.br)
+Feito com ♥ por Sandro Torres :wave: [Entre em Contato!](https://www.sandrotorres.com.br)
 
