@@ -36,7 +36,7 @@ O Alerta COVID-19 é um projeto que visa informar pessoas sobre o avanço e medi
 Alerta COVID-19 é um projeto que visa ajudar, de maneira financeira (Ongs) Instituições de caridade, ajudando a mesma se manter.
 
 <h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/img/login-page.png" width="350px" />
+    <img alt="Home-Page" title="Home-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/img/login-page.png" width="350px" />
     <img alt="Cadastro-Page" title="Cadastro-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/img/Cadastro-page.png" width="350px" padding="15px"/>
     <img alt="Detalhes" title="Detalhes" src="https://github.com/sjtorres/Omnistack-11/blob/master/img/Detalhes.png" width="350px" padding="15px"/>
     <img alt="Splash" title="Splash" src="https://github.com/sjtorres/Omnistack-11/blob/master/img/Splash.png" width="350px" padding="15px"/>
