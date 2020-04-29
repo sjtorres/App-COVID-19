@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	:heavy_check_mark: Alerta COVID-19 :heavy_check_mark:
+	:heavy_check_mark: Alerta COVID-19 em andamento :heavy_check_mark:
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/badge/made by-Sandro Torres-red">
@@ -23,7 +23,7 @@
 
 ## Tecnologias
 
-O Alerta COVID-19 é um projeto que visa informar pessoas sobre o avanço e medidas de proteçãosobre o CoronaVírus.
+O Alerta COVID-19 é um projeto que visa informar pessoas sobre o avanço e medidas de proteção sobre o CoronaVírus.
 
 - :heavy_check_mark: [Node.js](https://nodejs.org/en/) 
 - :heavy_check_mark: [Express](http://expressjs.com/) 
@@ -51,19 +51,13 @@ Na sua linha de comando:
 $ git clone https://github.com/sjtorres/App-COVID-19
 
 # Vá para o repositório 
-$ cd App-COVID-19/backend
+$ cd App-COVID-19/
 
 # Instalar dependências
 $ yarn install
 
-# Executar Migrates
-$ yarn knex migrate:latest 
-
-# Executar Seeds
-$ yarn seed
-
 # Executar a API
-$ yarn dev
+$ expo start
 ```
 
 ## Contribuir
